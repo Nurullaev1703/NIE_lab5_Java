@@ -1,3 +1,6 @@
-# TSN_RMI_CLIENT_SERVER
-Пример клиент-серверной программы на Java с использованием технологии RMI в NetBeans
-![screenshot](screenshot.png)
+# NIE_lab5_Java
+
+Practical work #5 of Java
+
+![Screenshot](Screenshot_1.jpg)
+![Screenshot](Screenshot_3.jpg)
