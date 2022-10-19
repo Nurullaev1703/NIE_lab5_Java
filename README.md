@@ -2,5 +2,5 @@
 
 Practical work #5 of Java
 
-![Screenshot](Screenshot_1.jpg)
-![Screenshot](Screenshot_3.jpg)
+![Screenshot](Screenshot_1.png)
+![Screenshot](Screenshot_3.png)
